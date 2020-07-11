@@ -1,5 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <samp><strong>Hello there, :wave:</strong></samp>
+  <br>
+  <samp>
+    I'm Earth, a DevOps Engineer at <a href="https://opsta.io">Opsta</a> based in Bangkok, Thailand. Interested in DevOps Technology.
+  </samp>
+</p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prangsa/prangsa)
 <!--
 **prangsa/prangsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
