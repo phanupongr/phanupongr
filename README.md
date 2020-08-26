@@ -6,6 +6,8 @@
   </samp>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prangsa&show_icons=true)  
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prangsa/prangsa)
 <!--
 **prangsa/prangsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
