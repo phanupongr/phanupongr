@@ -6,11 +6,19 @@
   </samp>
 </p>
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prangsa&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prangsa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prangsa/prangsa)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prangsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **prangsa/prangsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
