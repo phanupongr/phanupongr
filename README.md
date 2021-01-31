@@ -15,13 +15,13 @@
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prangsa&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prangsa)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phanupongr&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanupongr)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prangsa/prangsa)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=phanupongr/phanupongr)
 
 <!--
-**prangsa/prangsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phanupongr/phanupongr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
