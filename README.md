@@ -2,7 +2,7 @@
   <samp><strong>Hello there, :wave:</strong></samp>
   <br>
   <samp>
-    I'm Earth, a DevOps Engineer at <a href="https://opsta.io" target="_blank">Opsta</a> based in Bangkok, Thailand. Interested in DevOps Technology.
+    I'm Earth, a DevOps Engineer at <a href="https://monix.co.th" target="_blank">MONIX</a> based in Bangkok, Thailand. Passionate in area of DevSecOps methodologies and technologies
   </samp>
 </p>
 
