@@ -2,7 +2,7 @@
   <samp><strong>Hello there, :wave:</strong></samp>
   <br>
   <samp>
-    I'm Earth, a DevOps Engineer at <a href="https://monix.co.th" target="_blank">MONIX</a> based in Bangkok, Thailand. Passionate in area of DevSecOps methodologies and technologies
+    I'm Earth, a DevOps Engineer at <a href="https://www.monix.co.th" target="_blank">MONIX</a> based in Bangkok, Thailand. Passionate in area of DevSecOps methodologies and technologies
   </samp>
 </p>
 
