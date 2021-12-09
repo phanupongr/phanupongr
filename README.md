@@ -14,6 +14,12 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 
+[![](https://github-readme-stats.vercel.app/api?username=phanupongr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=phanupongr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **phanupongr/phanupongr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
